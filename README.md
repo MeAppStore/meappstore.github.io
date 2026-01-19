@@ -13,7 +13,7 @@
 * 通过 GitHub Releases 提供安全、稳定的二进制文件下载。
 
 ### 📦 软件下载
-您可以直接访问我们的 [在线门户 (https://meappstore.github.io)](https://meappstore.github.io) 获取最新版本的软件安装包。
+您可以直接访问我们的 [在线门户 (https://meappstore.github.io)](https://mexsoft.github.io) 获取最新版本的软件安装包。
 
 ### 📮 联系与支持
 如果您在使用过程中有任何反馈，欢迎在对应的项目仓库中提交 Issue。
